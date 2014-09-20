@@ -1,0 +1,24 @@
+MacBook-Pro-Nuevo-de-Miguel:horseracing mgilgar$ java -cp target/classes/ org.mgilgar.horseracing.App
+Star, Dakota, Cheyene, Misty, Spirit
+1 60
+3 5
+1 60
+4 5
+4 10
+2 5
+5 10
+1 60
+3 20
+7 10
+1 40
+2 60
+
+
+Position, Lane, Horse Name
+1, 1, Star
+2, 3, Cheyene
+3, 4, Misty
+4, 5, Spirit
+5, 2, Dakota
+
+MacBook-Pro-Nuevo-de-Miguel:horseracing mgilgar$ 
